@@ -29,4 +29,4 @@ AI Genius is a cutting-edge AI platform featuring five powerful AI tools, design
 
 ## Live Demo
 
-Experience AI Genius in action: [Live Demo](https://ai-genius-jungle.vercel.app/conversation)
+Experience AI Genius in action: [Live Demo](https://ai-genius-jungle.vercel.app)
